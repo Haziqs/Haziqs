@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia 
+- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia
 - 🤖 I build **AI-driven applications** with computer vision & machine learning
 - 🔒 I care about **responsible AI** — local processing, data privacy by design
 - 🏆 Gold @ INNOVEX 2026 · 1st Runner-Up @ MYVERSE 2026 · Silver @ i-GEN
@@ -86,8 +86,8 @@ An award-winning AI desktop app that detects fatigue, disorientation & balance i
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haziqs&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haziqs&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=Haziqs&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Haziqs&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
 </p>
 
 <p align="center">
