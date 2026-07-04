@@ -12,16 +12,13 @@
   <a href="mailto:haziqbinshahmen@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia — CGPA 3.59
+- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia 
 - 🤖 I build **AI-driven applications** with computer vision & machine learning
 - 🔒 I care about **responsible AI** — local processing, data privacy by design
 - 🏆 Gold @ INNOVEX 2026 · 1st Runner-Up @ MYVERSE 2026 · Silver @ i-GEN
