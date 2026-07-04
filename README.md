@@ -9,16 +9,13 @@
   <a href="https://www.linkedin.com/in/haziqshahmen">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:haziqbinshahmen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia
+- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia — CGPA 3.59
 - 🤖 I build **AI-driven applications** with computer vision & machine learning
 - 🔒 I care about **responsible AI** — local processing, data privacy by design
 - 🏆 Gold @ INNOVEX 2026 · 1st Runner-Up @ MYVERSE 2026 · Silver @ i-GEN
@@ -80,19 +77,6 @@ An award-winning AI desktop app that detects fatigue, disorientation & balance i
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Haziqs&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Haziqs&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haziqs&theme=tokyonight&hide_border=true" alt="streak">
-</p>
 
 ---
 
