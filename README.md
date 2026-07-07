@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia — CGPA 3.59
+- 🎓 **BSc Computer Science (Graphics & Multimedia Software)** @ Universiti Teknologi Malaysia
 - 🤖 I build **AI-driven applications** with computer vision & machine learning
 - 🔒 I care about **responsible AI** — local processing, data privacy by design
 - 🏆 Gold @ INNOVEX 2026 · 1st Runner-Up @ MYVERSE 2026 · Silver @ i-GEN
